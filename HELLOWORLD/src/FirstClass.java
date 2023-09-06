@@ -104,7 +104,7 @@ public class FirstClass {
         int num10=6;
         while(num10<=5)
         {
-            System.out.println("THIS IS THE OUTPUT OF FIRST CASE");
+            System.out.println("THIS IS THE OUTPUT OF FIRST CASE :-");
             num10++;
         }
         //CASE 2
